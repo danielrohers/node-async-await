@@ -1,0 +1,11 @@
+{
+  "name": "node-async-await",
+  "version": "1.0.0",
+  "description": "Example node async-await",
+  "main": "index.js",
+  "engines": {
+    "node": ">=7.x.x"
+  },
+  "author": "Daniel Rôhers Moura <rohersmoura@gmail.com> (https://github.com/danielrohers)",
+  "license": "MIT"
+}
